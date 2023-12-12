@@ -11,6 +11,7 @@
 		B0F3C0152B28D528002E8A52 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0F3C0142B28D528002E8A52 /* ContentView.swift */; };
 		B0F3C0172B28D52B002E8A52 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0F3C0162B28D52B002E8A52 /* Assets.xcassets */; };
 		B0F3C01A2B28D52B002E8A52 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0F3C0192B28D52B002E8A52 /* Preview Assets.xcassets */; };
+		B0F3C0212B28DEA9002E8A52 /* SampleLights.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0F3C0202B28DEA9002E8A52 /* SampleLights.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		B0F3C0142B28D528002E8A52 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B0F3C0162B28D52B002E8A52 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B0F3C0192B28D52B002E8A52 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B0F3C0202B28DEA9002E8A52 /* SampleLights.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleLights.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				B0F3C0122B28D528002E8A52 /* TrafficLightsWithSwiftUIApp.swift */,
 				B0F3C0142B28D528002E8A52 /* ContentView.swift */,
+				B0F3C0202B28DEA9002E8A52 /* SampleLights.swift */,
 				B0F3C0162B28D52B002E8A52 /* Assets.xcassets */,
 				B0F3C0182B28D52B002E8A52 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				B0F3C0152B28D528002E8A52 /* ContentView.swift in Sources */,
 				B0F3C0132B28D528002E8A52 /* TrafficLightsWithSwiftUIApp.swift in Sources */,
+				B0F3C0212B28DEA9002E8A52 /* SampleLights.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
