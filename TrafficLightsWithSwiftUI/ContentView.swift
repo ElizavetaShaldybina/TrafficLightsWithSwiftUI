@@ -12,7 +12,7 @@ struct ContentView: View {
     
     var body: some View {
         ZStack {
-            Color.black
+            Color.brown
                 .ignoresSafeArea()
             VStack {
                 SampleLights(color: currentLight == .red ? .red : .red.opacity(0.3))
